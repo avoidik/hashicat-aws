@@ -14,3 +14,7 @@
 # terraformrc file
 terraform.rc
 .terraformrc
+
+# extra
+*.lock.hcl
+
